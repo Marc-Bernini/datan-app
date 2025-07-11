@@ -1,7 +1,7 @@
 {
-  "name": "datan-app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
+    "name": "datan",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react-vite"
 }
