@@ -69,11 +69,17 @@ $ npm run sync-android
 # build native code on ios
 $ npm run sync-ios
 
-# open app on android emulator
+# open android studio
 $ npm run open-android
 
-# open app on ios emulator
+# open xcode
 $ npm run open-ios
+
+# open app on android emulator with live reload
+$ npm run android-live-reload
+
+# open app on ios emulator with live reload
+$ npm run ios-live-reload
 
 # format code with prettier and eslint
 $ npm run format
